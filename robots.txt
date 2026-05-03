@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ConnectSiteForge.github.io/notes-3r3t57/sitemap.xml
